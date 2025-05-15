@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/review-carousel/static/css/main.790020e8.css",
+    "main.js": "/review-carousel/static/js/main.3c273719.js",
+    "static/js/453.04adb2db.chunk.js": "/review-carousel/static/js/453.04adb2db.chunk.js",
+    "index.html": "/review-carousel/index.html",
+    "main.790020e8.css.map": "/review-carousel/static/css/main.790020e8.css.map",
+    "main.3c273719.js.map": "/review-carousel/static/js/main.3c273719.js.map",
+    "453.04adb2db.chunk.js.map": "/review-carousel/static/js/453.04adb2db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790020e8.css",
+    "static/js/main.3c273719.js"
+  ]
+}
